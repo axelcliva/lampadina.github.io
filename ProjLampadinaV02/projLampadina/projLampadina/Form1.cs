@@ -1,5 +1,6 @@
 using System.Windows.Forms;
 
+//versione2
 namespace projLampadina
 {
     public partial class Form1 : Form

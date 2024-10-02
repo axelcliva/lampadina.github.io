@@ -36,3 +36,21 @@ C:\Users\admin\Desktop\Lampadina\ProjLampadina\projLampadina\projLampadina\obj\D
 C:\Users\clivati.21190\Downloads\Documento da parte di alex 🏄_♂️\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.dll
 C:\Users\clivati.21190\Downloads\Documento da parte di alex 🏄_♂️\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\refint\projLampadina.dll
 C:\Users\clivati.21190\Downloads\Documento da parte di alex 🏄_♂️\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.pdb
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\bin\Debug\net6.0-windows\projLampadina.exe
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\bin\Debug\net6.0-windows\projLampadina.deps.json
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\bin\Debug\net6.0-windows\projLampadina.runtimeconfig.json
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\bin\Debug\net6.0-windows\projLampadina.dll
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\bin\Debug\net6.0-windows\projLampadina.pdb
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.Form1.resources
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.Properties.Resources.resources
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.csproj.GenerateResource.cache
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.AssemblyInfoInputs.cache
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.AssemblyInfo.cs
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.csproj.CoreCompileInputs.cache
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.sourcelink.json
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.dll
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\refint\projLampadina.dll
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.pdb
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\projLampadina.genruntimeconfig.cache
+C:\Users\clivati.21190\lampadina.github.io\ProjLampadinaV02\projLampadina\projLampadina\obj\Debug\net6.0-windows\ref\projLampadina.dll

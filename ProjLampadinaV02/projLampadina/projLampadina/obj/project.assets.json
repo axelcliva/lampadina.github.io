@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\clivati.21190\\Downloads\\Documento da parte di alex 🏄_♂️\\ProjLampadinaV02\\projLampadina\\projLampadina\\projLampadina.csproj",
+      "projectUniqueName": "C:\\Users\\clivati.21190\\lampadina.github.io\\ProjLampadinaV02\\projLampadina\\projLampadina\\projLampadina.csproj",
       "projectName": "projLampadina",
-      "projectPath": "C:\\Users\\clivati.21190\\Downloads\\Documento da parte di alex 🏄_♂️\\ProjLampadinaV02\\projLampadina\\projLampadina\\projLampadina.csproj",
+      "projectPath": "C:\\Users\\clivati.21190\\lampadina.github.io\\ProjLampadinaV02\\projLampadina\\projLampadina\\projLampadina.csproj",
       "packagesPath": "C:\\Users\\clivati.21190\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\clivati.21190\\Downloads\\Documento da parte di alex 🏄_♂️\\ProjLampadinaV02\\projLampadina\\projLampadina\\obj\\",
+      "outputPath": "C:\\Users\\clivati.21190\\lampadina.github.io\\ProjLampadinaV02\\projLampadina\\projLampadina\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projLampadina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f586d53d17151889d67839f498225cb5fb1fde6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d5e541ecd979e2ddd3245af5a19ad793c08155")]
 [assembly: System.Reflection.AssemblyProductAttribute("projLampadina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projLampadina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
